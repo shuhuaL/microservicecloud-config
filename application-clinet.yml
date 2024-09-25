@@ -18,7 +18,7 @@ eureka:
 
 ---
 spring:
-  profiles: dev
+  profiles: test
   application:
     name: microservicecloud-config-client
 
